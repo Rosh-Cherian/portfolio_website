@@ -40,7 +40,7 @@ if st.button("ASK",use_container_width=400):
 #    st.write("- world class kidilam")
 
 st.title("My Skills")
-st.slider("Programming",0,100,70)
+st.slider("Programming",0,100,90)
 st.slider("Problem Solving",0,100,95)
 st.file_uploader("Upload a file(may be a letter which you think i should read)")
 st.write("Contact")
